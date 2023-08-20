@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Deep analytics of commercial real estate in Moscow</title>
+  </head>
+  <body>
+    <h1>Deep analytics of commercial real estate in Moscow</h1>
+
+    <form method="post">
+      <label for="district">Moscow district:</label>
+      <select id="district" name="district">
+        <option value="all">All districts of Moscow</option>
+        <option value="district1">District 1</option>
+        <option value="district2">District 2</option>
+        <option value="district3">District 3</option>
+        <!-- Add more district options as needed -->
+      </select>
+      <br>
+      <label for="area_min">Area range (min):</label>
+      <input type="number" id="area_min" name="area_min" step="0.01" min="0" required>
+      <label for="area_max">Area range (max):</label>
+      <input type="number" id="area_max" name="area_max" step="0.01" min="0" required>
+      <br>
+      <label for="value_min">Value range (min):</label>
+      <input type="number" id="value_min" name="value_min" step="0.01" min="0" required>
+      <label for="value_max">Value range (max):</label>
+      <input type="number" id="value_max" name="value_max" step="0.01" min="0" required>
+      <br>
+      <button type="submit">Submit</button>
+    </form>
+  </body>
+</html>
