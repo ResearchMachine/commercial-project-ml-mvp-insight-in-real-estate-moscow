@@ -1,8 +1,8 @@
 # (2023) Analytics of Commercial Real Estate in Moscow. Search for Insights of ML Methods
-**Project Type:** 
-**Programming Language:** Python 3 (xgboost, difflib, sklearn, BeautifulSoup, cloudscraper, re)
-**Project Сode:** 
-**Project Full Description** (in Russian): 
+**Project Type:**   
+**Programming Language:** Python 3 (xgboost, difflib, sklearn, BeautifulSoup, cloudscraper, re)  
+**Project Сode:**  
+**Project Full Description** (in Russian):  
 **Company:** REVIZOR LLC (RUS)  
 
 
