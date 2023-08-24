@@ -9,7 +9,7 @@
 
 
 ### I. Motivation
-The main goal of the project is the implementation of the MVP and the assessment of the complexity of the implementation of the recommendation platform for commercial real estate in Moscow. (Example: AI Realiste.)
+The main goal of the project is the implementation of the MVP and the assessment of the complexity of the implementation of the recommendation platform for commercial real estate in Moscow. (Example: AI Realiste for real estate investing.)
 
 ### II. Problem
 The task of developing a platform for searching for insights in commercial real estate in Moscow from open sources is considered. As a result of the work, an MVP was developed for uploading insights from cian.ru, an assessment was made of the difficulties of scaling and automation.
