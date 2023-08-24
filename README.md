@@ -3,7 +3,7 @@
 **Programming Language:** Python 3 (xgboost, difflib, sklearn, BeautifulSoup, cloudscraper, re)  
 **Project Сode:**  
 **Project Full Description** (in Russian):  
-**Company:** REVIZOR LLC (RUS)  
+**Company:** [REVIZOR LLC](https://kupiluki.ru/) (RUS)  
 
 
 
