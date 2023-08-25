@@ -16,7 +16,7 @@ Example: AI Realiste for real estate investing in Dubai.
 The task of developing a platform for searching for insights in commercial real estate in Moscow from open sources is considered. As a result of the work, an MVP was developed for uploading insights from cian.ru, an assessment was made of the difficulties of scaling and automation.
 
 ### III. Key Results 
-* Implemented MVP (parser + ml pipline), with the help of which 5+ objects were found, which were marked by experts as underestimated;
+* Implemented MVP (parser + ml pipline), with the help of which as minimum 5 objects were found, which were marked by experts as underestimated;
 * The key difficulty of implementing a recommendation platform is not related to ML - it is impossible to guarantee the security of a transaction without face-to-face verification.
 
 
