@@ -1,5 +1,5 @@
 # (2023) Analytics of Commercial Real Estate in Moscow. Search for Insights of ML Methods
-**Project Type:**   
+**Project Type:**   Commercial Data Science project, Machine Learning, MVP
 **Programming Language:** Python 3 (xgboost, difflib, sklearn, BeautifulSoup, cloudscraper, re)  
 **Project Сode:**  
 **Project Full Description** (in Russian):  
