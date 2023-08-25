@@ -20,7 +20,7 @@ The task of developing a platform for searching for insights in commercial real 
 * The key difficulty of implementing a recommendation platform is not related to ML - it is impossible to guarantee the security of a transaction without face-to-face verification.
 
 
-Thus, by means of ML it is possible to obtain only recommendations for real estate experts. It is related to it is impossible to guarantee the security of the transaction. For the implementation of the platform, the bulk of the work will be related to the negotiations and design of the announcement.
+Thus, it is possible to automate recommendations only for real estate experts. It is related to impossibility of guarantee the security of the transaction. For the implementation of the platform, the bulk of the work will be related to the negotiations and design of the announcement.
 
 ### III. Content
 Within the framework of the project, 2 main tasks of data analysis were solved:
