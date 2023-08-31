@@ -1,5 +1,5 @@
 # (2023) Analytics of Commercial Real Estate in Moscow. Search for Insights of ML Methods
-**Project Type:**   Commercial Data Science project, Machine Learning, MVP  
+**Project Type:**  Individual Commercial Project, Machine Learning, MVP  
 **Programming Language:** Python 3 (xgboost, difflib, sklearn, BeautifulSoup, cloudscraper, re)  
 **Project Сode (main scripts):** [Parser](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow/blob/main/preprocessing/run_preprocessing.ipynb); [ML Insight Extractor](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow/blob/main/modeling/run_modeling.ipynb)  
 **Company:** [REVIZOR LLC](https://kupiluki.ru/) (RUS)  
@@ -27,6 +27,8 @@ The key difficulties of unifying and automating the algorithm for creating a rec
 * the algorithm can get stuck on "problem" ads (dilapidated housing, scammers, technical floor, etc.),  
 * the algorithm is sensitive to filters, the setting of which requires fresh knowledge of the market.  
 The first reason is essentially an indicator of the quality of the algorithm - "problem" ads should be relatively cheap in terms of available factors. Dilapidated housing can often be identified only by appearance. Increasing filters by year of construction leads to a significant reduction in dilapidated housing, but greatly reduces the volume of insights. The list also includes ads from scammers, which also requires manual control (at least it is necessary to ring the ads).
+
+An assessment of the degree of possible automation was transferred to the customer (REVIZOR LLC) to assess the feasibility of the project.
 
 **The project code contains 2 scripts**:
 1. [Parser (result - .xlsx dataframe)](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow/blob/main/preprocessing/run_preprocessing.ipynb);  
