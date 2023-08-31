@@ -3,9 +3,7 @@
 **Programming Language:** Python 3 (xgboost, difflib, sklearn, BeautifulSoup, cloudscraper, re)  
 **Project Сode (main scripts):** [Parser](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow/blob/main/preprocessing/run_preprocessing.ipynb); [ML Insight Extractor](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow/blob/main/modeling/run_modeling.ipynb)  
 **Company:** [REVIZOR LLC](https://kupiluki.ru/) (RUS)  
-
-
-
+**Project Full Description:** [Presentation](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow/blob/main/EN.pdf)
 
 ### I. Motivation
 The main goal of the project is MVP development of a fully automated platform for recommending commercial real estate in Moscow.  
