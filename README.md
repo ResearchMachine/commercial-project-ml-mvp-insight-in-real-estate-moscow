@@ -20,6 +20,10 @@ The task of developing a platform for searching for insights in commercial real 
 Thus, it is possible to automate recommendations only for real estate experts. It is related to impossibility of guarantee the security of the transaction. For the implementation of the platform, the bulk of the work will be related to the negotiations and design of the announcement.
 
 ### III. Content
+
+![image](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow/assets/70639823/67974aa5-54b5-41b3-a3f4-8258d3fea1e1)  
+Geographic clusters of commercial advertisements (structures) CIAN in Moscow
+
 Within the framework of the project, 2 main tasks of data analysis were solved:
 * CIAN site parser developed, uses xgboost, sklearn, beatifulsoup, re;   
 * the concept of the algorithm was developed and tested, which takes into account the professional principles of real estate valuation (feature selection) and the noise in the data (it is solved as a ranking problem).  
