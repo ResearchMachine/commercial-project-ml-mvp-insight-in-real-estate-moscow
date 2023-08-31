@@ -32,5 +32,5 @@ The key difficulties of unifying and automating the algorithm for creating a rec
 The first reason is essentially an indicator of the quality of the algorithm - "problem" ads should be relatively cheap in terms of available factors. Dilapidated housing can often be identified only by appearance. Increasing filters by year of construction leads to a significant reduction in dilapidated housing, but greatly reduces the volume of insights. The list also includes ads from scammers, which also requires manual control (at least it is necessary to ring the ads).
 
 **The project code contains 2 scripts**:
-1. Parser (result - .xlsx dataframe);  
+1. [Parser (result - .xlsx dataframe)](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow/blob/main/preprocessing/run_preprocessing.ipynb);  
 2. ML Insight Extractor (result - TOP30 links).
