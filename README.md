@@ -13,8 +13,8 @@ Example: AI Realiste for real estate investing in Dubai.
 The task of developing a platform for searching for insights in commercial real estate in Moscow from open sources is considered. As a result of the work, an MVP was developed for uploading insights from cian.ru, an assessment was made of the difficulties of scaling and automation.
 
 ### III. Key Results 
-* Implemented MVP (parser + ml pipline), with the help of which as minimum 5 objects were found, which were marked by experts as underestimated;
-* The key difficulty of implementing a recommendation platform is not related to ML - it is impossible to guarantee the security of a transaction without face-to-face verification.
+* Implemented MVP (parser + ml pipline), with 5 objects were found, which were marked by real estate experts as underestimated;
+* Main problems: impossibility to guarantee the security of a transaction without face-to-face verification; .
 
 
 Thus, it is possible to automate recommendations only for real estate experts. It is related to impossibility of guarantee the security of the transaction. For the implementation of the platform, the bulk of the work will be related to the negotiations and design of the announcement.
@@ -39,3 +39,6 @@ The first reason is essentially an indicator of the quality of the algorithm - "
 2. [ML Insight Extractor (result - TOP30 links)](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow/blob/main/modeling/run_modeling.ipynb).
 
 **Project Full Description:** [Presentation](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow/blob/main/EN.pdf)
+
+### IV. Team
+Data Scientis (me), 2 real estate experts (Revizor LLC), ML System Design Specialist (Outside Labour).
