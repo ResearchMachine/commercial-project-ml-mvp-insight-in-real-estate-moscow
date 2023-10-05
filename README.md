@@ -1,4 +1,4 @@
-# (2023) Analytics of Commercial Real Estate in Moscow. Search for Insights by ML Methods
+# (2023) Searching-for Real Estate Insights in Moscow by Boosting Methods
 **Project Type:**  Individual Commercial Project, Machine Learning, MVP  
 **Programming Language:** Python 3 (xgboost, difflib, sklearn, BeautifulSoup, cloudscraper, re)  
 **Project Сode (main scripts):** [Parser](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow/blob/main/preprocessing/run_preprocessing.ipynb); [ML Insight Extractor](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow/blob/main/modeling/run_modeling.ipynb)  
