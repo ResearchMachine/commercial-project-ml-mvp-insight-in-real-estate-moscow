@@ -6,8 +6,10 @@
 **Project Full Description:** [Presentation](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow/blob/main/EN.pdf)
 
 ### I. Motivation
-The main goal of the project is MVP development of a fully automated platform for recommending commercial real estate in Moscow.  
+The main goal of the project is MVP development of a fully automated platform for recommending commercial real estate in Moscow from open sources.  
 Example: AI Realiste for real estate investing in Dubai.
+
+
 
 ### II. Problem
 The task of developing a platform for searching for insights in commercial real estate in Moscow from open sources is considered. As a result of the work, an MVP was developed for uploading insights from cian.ru, an assessment was made of the difficulties of scaling and automation.
