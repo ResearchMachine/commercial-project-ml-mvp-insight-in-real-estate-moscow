@@ -7,7 +7,7 @@
 
 ### I. Motivation
 The main goal of the project is MVP development of a fully automated platform for recommending commercial real estate in Moscow from open sources.  
-Example: AI Realiste for real estate investing in Dubai.
+
 
 
 
