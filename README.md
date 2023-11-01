@@ -31,7 +31,7 @@ Geographic clusters of commercial advertisements (structures) CIAN in Moscow
 * Data was extracted from a Russian real estate website (CIAN)
 
 
-**About the algorithm:**
+**About Algorithm:**
 * Roughly speaking, the algorithm train a predictor on the “average” segment, which predicts the price price_pred for the entire dataset and ranks it by price_fact - price_pred,  
 * The algorithm can get stuck on "problem" ads (dilapidated housing, scammers, technical floor, etc.),  
 * The algorithm is sensitive to filters, the setting of which requires fresh knowledge of the market.  
@@ -44,11 +44,11 @@ The first reason is essentially an indicator of the quality of the algorithm - "
 
 **Thus, using ML from open source commercial real estate is profitable only for indiviual using.**
 
-**The project code**:
+**Project Code**:
 1. [Parser (result - .xlsx dataframe)](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow/blob/main/preprocessing/run_preprocessing.ipynb);  
 2. [ML Insight Extractor (result - TOP30 links)](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow/blob/main/modeling/run_modeling.ipynb).
 
-**Project Full Description:** [Presentation](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow/blob/main/EN.pdf)
+**Project Description:** [Presentation](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow/blob/main/EN.pdf)
 
 ### IV. Team
-Data Scientist (me), 2 Real Estate Experts (from Revizor LLC)
+Data Scientist (me), 2 Real Estate Experts
