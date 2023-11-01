@@ -6,11 +6,10 @@
 
 
 ### I. Motivation
-MVP development of RecSys platform of commercial real estate in Moscow from open sources.  
-
+There are platforms that provide recommendations for investing in real estate. It is proposed to build a similar platform for commercial real estate of Moscow.
 
 ### II. Problem
-The task of developing a platform for searching for insights in commercial real estate in Moscow from open sources is considered. As a result of the work, an MVP was developed for uploading insights from cian.ru, an assessment was made of the difficulties of scaling and automation.
+The task of developing a RecSys platform for searching for insights in commercial real estate in Moscow from open sources is considered. 
 
 ### III. Key Results 
 * Top30 (out of over 1500 options) undervalued commercial real estate extractor algorithm was developed for daily monitoring (Moscow, Russia)
