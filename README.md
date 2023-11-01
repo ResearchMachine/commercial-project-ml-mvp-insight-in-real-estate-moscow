@@ -39,7 +39,7 @@ The first reason is essentially an indicator of the quality of the algorithm - "
 
 
 **Key Problem of Scalability to Big Platform:**
-1. Realtor Checking. If the realtor turns out to be a scammer, the platform will receive a negative review. This can greatly damage your reputation and we cannot influence it.  
+1. Realtor Checking. If the realtor turns out to be a scammer, the platform will receive a negative review. This can greatly damage platform reputation and we cannot influence it.  
 2. Market Knowledge and Explainability for User. We used many manual filters that cannot be obtained without special knowledge about the market. And also, we cannot use deep algorithms, since we must explain to the user why they should buy exactly this object.
 
 **Thus, using ML from open source commercial real estate is profitable only for indiviual using.**
