@@ -6,7 +6,7 @@
 
 
 ### I. Motivation
-MVP development of platform for recommending commercial real estate in Moscow from open sources.  
+MVP development of RecSys platform of commercial real estate in Moscow from open sources.  
 
 
 ### II. Problem
