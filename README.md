@@ -15,7 +15,7 @@ The task of developing a RecSys platform in commercial real estate in Moscow fro
 * Top30 (out of over 1500 options) undervalued commercial real estate extractor algorithm was developed for daily monitoring (Moscow, Russia)
 * By 40% (to ≈900) was reduced searching area from unwanted objects (duplicates, dilapidated housing, business for sale, etc.) through ads text analysis
 * 60-70% accuracy rate of extractor algorithm was achieved based on 5 data annotations from real estate experts (interesting/non-interesting ad)
-* 3 properties were identified as rare finds and were confirmed by real estate experts
+* 3 properties for 1 month of MVP work were identified as rare finds and were confirmed by real estate experts 
 * Data was extracted from a Russian real estate website (CIAN)
 
 
@@ -33,8 +33,8 @@ The first reason is essentially an indicator of the quality of the algorithm. So
 
 **Key Problems of Scalability to Big Platform:**
 1. Realtor Checking. If the realtor turns out to be a scammer, the platform will receive a negative review. This can greatly damage platform reputation and we cannot influence it.  
-2. Market Knowledge and Explainability for User. We used many manual filters that cannot be obtained without special knowledge about the market. And also, we cannot use deep algorithms, since we must explain to the user why they should buy exactly this object.
-**Thus, using ML from open source commercial real estate is profitable only for indiviual using.**
+2. Market Knowledge and Explainability for User. We used many manual filters that cannot be obtained without special knowledge about the market. And also, we cannot use deep algorithms, since we must explain to the user why they should buy exactly this object.  
+**Thus, using Data Analysis from open source commercial real estate in Moscow is profitable only for indiviual using.**
 
 **Project Code**:
 1. [Parser (result - .xlsx dataframe)](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow/blob/main/preprocessing/run_preprocessing.ipynb);  
