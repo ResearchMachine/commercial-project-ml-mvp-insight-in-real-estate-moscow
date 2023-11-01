@@ -12,11 +12,12 @@ The main goal of the project is MVP development of a fully automated platform fo
 The task of developing a platform for searching for insights in commercial real estate in Moscow from open sources is considered. As a result of the work, an MVP was developed for uploading insights from cian.ru, an assessment was made of the difficulties of scaling and automation.
 
 ### III. Key Results 
-* Implemented MVP (parser + ml pipline), with 5 objects were found, which were marked by real estate experts as underestimated;
-* Main problems: impossibility to guarantee the security of a transaction without face-to-face verification; .
+* Top30 (out of over 1500 options) undervalued commercial real estate extractor algorithm was developed for daily monitoring (Moscow, Russia)
+* By 40% (to ≈900) was reduced searching area from unwanted objects (duplicates, dilapidated housing, business for sale, etc.) through ads text analysis
+* 60-70% accuracy rate of extractor algorithm was achieved based on 5 data annotations from real estate experts (interesting/non-interesting ad)
+* 3 properties were identified as rare finds and were confirmed by real estate experts
+* Data was extracted from a Russian real estate website (CIAN)
 
-
-Thus, it is possible to automate recommendations only for real estate experts. It is related to impossibility of guarantee the security of the transaction. For the implementation of the platform, the bulk of the work will be related to the negotiations and design of the announcement.
 
 ### IV. Content
 
@@ -29,12 +30,6 @@ Geographic clusters of commercial advertisements (structures) CIAN in Moscow
 * The algorithm is sensitive to filters, the setting of which requires fresh knowledge of the market.  
 The first reason is essentially an indicator of the quality of the algorithm. Some unwanted ads should be relatively cheap in terms of available factors (large warehouse for ex.). Dilapidated housing can often be identified only by appearance. Increasing filters by year of construction leads to a significant reduction in dilapidated housing, but greatly reduces the volume of insights. The list also includes ads from scammers, which also requires manual control (at least it is necessary to ring the ads).
 
-**Results:**
-* Top30 (out of over 1500 options) undervalued commercial real estate extractor algorithm was developed for daily monitoring (Moscow, Russia)
-* By 40% (to ≈900) was reduced searching area from unwanted objects (duplicates, dilapidated housing, business for sale, etc.) through ads text analysis
-* 60-70% accuracy rate of extractor algorithm was achieved based on 5 data annotations from real estate experts (interesting/non-interesting ad)
-* 3 properties were identified as rare finds and were confirmed by real estate experts
-* Data was extracted from a Russian real estate website (CIAN)
 
 **Key Problems of Scalability to Big Platform:**
 1. Realtor Checking. If the realtor turns out to be a scammer, the platform will receive a negative review. This can greatly damage platform reputation and we cannot influence it.  
