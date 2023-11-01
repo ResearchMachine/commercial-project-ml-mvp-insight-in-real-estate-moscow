@@ -25,7 +25,8 @@ The task of developing a RecSys platform in commercial real estate in Moscow fro
 Geographic clusters of commercial advertisements (structures) CIAN in Moscow
 
 **About Algorithm:**
-* Roughly speaking, the algorithm train a predictor on the “average” segment, which predicts the price price_pred for the entire dataset and ranks it by price_fact - price_pred,  
+* Roughly speaking, the algorithm train a predictor on the “average” segment, which predicts the price price_pred for the entire dataset and ranks it by price_fact - price_pred,
+* The algorithm uses only factors of professional real estate assessment (object parameters, geoparameters), which eliminates the possibility of retraining on ad factors (when a realtor was online for ex.)
 * The algorithm can get stuck on "problem" ads (dilapidated housing, scammers, technical floor, etc.),  
 * The algorithm is sensitive to filters, the setting of which requires fresh knowledge of the market.  
 The first reason is essentially an indicator of the quality of the algorithm. Some unwanted ads should be relatively cheap in terms of available factors (large warehouse for ex.). Dilapidated housing can often be identified only by appearance. Increasing filters by year of construction leads to a significant reduction in dilapidated housing, but greatly reduces the volume of insights. The list also includes ads from scammers, which also requires manual control (at least it is necessary to ring the ads).
