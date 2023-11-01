@@ -6,7 +6,7 @@
 
 
 ### I. Motivation
-The main goal of the project is MVP development of a fully automated platform for recommending commercial real estate in Moscow from open sources.  
+MVP development of platform for recommending commercial real estate in Moscow from open sources.  
 
 
 ### II. Problem
