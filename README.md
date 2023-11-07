@@ -9,7 +9,7 @@
 There are platforms that provide recommendations for investing in real estate. It is proposed to build a similar platform for commercial real estate of Moscow.
 
 ### II. Problem
-MVP developing task of RecSys real estate platform is considered. Segment: commercial real estate in Moscow from open sources. 
+Parse data from an open real estate source and conduct exploratory data analysis. Segment: special segment of commercial real estate in Moscow. 
 
 ### III. Key Results 
 * Top30 (out of over 1500 options) undervalued commercial real estate extractor algorithm was developed for daily monitoring (Moscow, Russia)
