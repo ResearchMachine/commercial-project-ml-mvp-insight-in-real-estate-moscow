@@ -5,13 +5,11 @@
 <!--- **Project Full Description:** [Presentation](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow/blob/main/EN.pdf) --->
 
 
-### I. Motivation
-There are platforms that provide recommendations for investing in real estate. It is proposed to build a similar platform for commercial real estate of Moscow.
 
-### II. Problem
-Parse data from an open real estate source and conduct exploratory data analysis. Segment: special segment of commercial real estate in Moscow. 
+### I. Problem
+Parse special segment data from Russian real estate website (CIAN) and conduct exploratory data analysis.
 
-### III. Key Results 
+### II. Key Results 
 * Data was extracted from a Russian real estate website (CIAN)
 * By 40% (to ≈900) was reduced searching area from unwanted objects (duplicates, dilapidated housing, business for sale, etc.) through ads text analysis
 * Top30 (out of over 1500 options) undervalued commercial real estate extractor algorithm was developed for daily monitoring (Moscow, Russia)
@@ -20,7 +18,7 @@ Parse data from an open real estate source and conduct exploratory data analysis
 
 
 
-### IV. Content
+### III. Content
 **About Algorithm:**
 * Roughly speaking, the algorithm train a predictor on the “average” segment, which predicts the price price_pred for the entire dataset and ranks it by price_fact - price_pred,
 * The algorithm uses only factors of professional real estate assessment (object parameters, geoparameters), which eliminates the possibility of retraining on ad factors (when a realtor was online for ex.)
