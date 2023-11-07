@@ -43,4 +43,4 @@ The first reason is essentially an indicator of the quality of the algorithm. So
 <!--- **Project Description:** [Presentation](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow/blob/main/EN.pdf) --->
 
 ### IV. Team
-Data Scientist (me), 2 Real Estate Experts
+Data Scientist (me), Real Estate Analytic
