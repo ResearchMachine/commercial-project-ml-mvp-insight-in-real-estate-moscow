@@ -31,11 +31,11 @@ Geographic clusters of commercial advertisements (structures) CIAN in Moscow
 * The algorithm is sensitive to filters, the setting of which requires fresh knowledge of the market.  
 The first reason is essentially an indicator of the quality of the algorithm. Some unwanted ads should be relatively cheap in terms of available factors (large warehouse for ex.). Dilapidated housing can often be identified only by appearance. Increasing filters by year of construction leads to a significant reduction in dilapidated housing, but greatly reduces the volume of insights. The list also includes ads from scammers, which also requires manual control (at least it is necessary to ring the ads).
 
-
+<!--- 
 **Key Problems of Scalability to Big Platform:**
 1. Realtor Checking. If the realtor turns out to be a scammer, the platform will receive a negative review. This can greatly damage platform reputation and we cannot influence it.  
 2. Market Knowledge and Explainability for User. We used many manual filters that cannot be obtained without special knowledge about the market. And also, we cannot use deep algorithms, since we must explain to the user why they should buy exactly this object.  
-**Thus, using Data Analysis from open source commercial real estate in Moscow is profitable only for indiviual using.**
+**Thus, using Data Analysis from open source commercial real estate in Moscow is profitable only for indiviual using.**--->
 
 **Project Code**:
 1. [Parser (result - .xlsx dataframe)](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow/blob/main/preprocessing/run_preprocessing.ipynb);  
