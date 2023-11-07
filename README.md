@@ -1,4 +1,4 @@
-# (2023) Searching-for Real Estate Insights in Moscow by Boosting Methods
+# (2023) Data Mining of Real Estate in Moscow 
 **Project Type:**  Freelance Project, Machine Learning, MVP  
 **Programming Language:** Python 3 (xgboost, difflib, sklearn, BeautifulSoup, cloudscraper, re)  
 **Project Сode (main scripts):** [Parser](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow/blob/main/preprocessing/run_preprocessing.ipynb); [ML Insight Extractor](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow/blob/main/modeling/run_modeling.ipynb)   
