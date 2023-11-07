@@ -7,7 +7,8 @@
 
 
 ### I. Problem
-Parse special segment data from Russian real estate website (CIAN) and conduct exploratory data analysis.
+* Parse special segment data from Russian real estate website (CIAN) 
+* Exploratory data analysis
 
 ### II. Key Results 
 * Data was extracted from a Russian real estate website (CIAN)
