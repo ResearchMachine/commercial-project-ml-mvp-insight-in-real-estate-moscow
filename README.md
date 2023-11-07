@@ -12,11 +12,12 @@ There are platforms that provide recommendations for investing in real estate. I
 Parse data from an open real estate source and conduct exploratory data analysis. Segment: special segment of commercial real estate in Moscow. 
 
 ### III. Key Results 
-* Top30 (out of over 1500 options) undervalued commercial real estate extractor algorithm was developed for daily monitoring (Moscow, Russia)
+* Data was extracted from a Russian real estate website (CIAN)
 * By 40% (to ≈900) was reduced searching area from unwanted objects (duplicates, dilapidated housing, business for sale, etc.) through ads text analysis
+* Top30 (out of over 1500 options) undervalued commercial real estate extractor algorithm was developed for daily monitoring (Moscow, Russia)
 * 60-70% accuracy rate of extractor algorithm was achieved based on 5 data annotations from real estate experts (interesting/non-interesting ad)
 * 3 properties for 1 month of MVP work were identified as rare finds and were confirmed by real estate experts 
-* Data was extracted from a Russian real estate website (CIAN)
+
 
 
 ### IV. Content
