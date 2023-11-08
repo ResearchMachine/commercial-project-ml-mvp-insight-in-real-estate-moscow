@@ -6,7 +6,7 @@
 
 
 
-### I. Problem
+### I. Task
 * Parse special segment data from Russian real estate website (CIAN) 
 * Exploratory data analysis
 
