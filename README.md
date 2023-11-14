@@ -7,8 +7,9 @@
 
 
 ### I. Task
-* Parse special segment data from Russian real estate website (CIAN) 
+* Parsing special segment data from Russian real estate website to .xlsx
 * Exploratory data analysis
+* Testing the idea of the Insight algorithm in a team with Real Estate Expert
 
 ### II. Key Results 
 * Data was extracted from a Russian real estate website (CIAN)
